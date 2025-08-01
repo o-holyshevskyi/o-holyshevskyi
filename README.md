@@ -20,7 +20,8 @@
 ---
 
 ## 📌 Featured Projects
-- [![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend)](https://github.com/clari-spend-backend) – Expense tracking mobile app (React Native + Expo)
+- [![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend)](https://github.com/ClariSpend/clari-spend-backend)
+- [![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=ClariSpend)](https://github.com/ClariSpend/ClariSpend)
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog)](https://github.com/o-holyshevskyi/oh-blog)
 
 ---
