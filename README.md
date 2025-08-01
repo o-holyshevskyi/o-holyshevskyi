@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oleksandr Holyshevskyi
 
 🎯 Passionate QA Engineer | 📍 Based in Prague  
-💼 ISTQB® Certified | 🤖 Test Automation (C#, TS) | 📊 Performance QA  
+💼 ISTQB® Certified | 🤖 Test Automation (C#, TS)
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Featured Projects
-- [ClariSpend]((https://github.com/ClariSpend)) – Expense tracking mobile app (React Native + Expo)
+- [ClariSpend](https://github.com/ClariSpend) – Expense tracking mobile app (React Native + Expo)
 - [Test Automation Suite](https://github.com/o-holyshevskyi/oh-blog) – Selenium + NUnit + FluentAssertions boilerplate
 
 ---
