@@ -40,7 +40,10 @@ Currently focused on building scalable testing solutions and React Native apps l
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog&theme=transparent )](https://github.com/o-holyshevskyi/oh-blog)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-holyshevskyi&hide_progress=true)
+
+## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-holyshevskyi&layout=compact)
 
 ---
 
