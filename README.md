@@ -5,6 +5,14 @@
 
 ---
 
+## 🎓 About Me
+
+I’m a Senior QA Engineer with 7+ years of experience across desktop, web, and mobile platforms.  
+I specialize in test automation, performance QA, and mentoring junior engineers.  
+Currently focused on building scalable testing solutions and React Native apps like **ClariSpend**.
+
+---
+
 ## 🚀 Tech Stack
 - 💻 Languages: C#, JavaScript/TypeScript
 - 🧪 QA: Playwright, Selenium, NUnit, FluentAssertions, NSubstitute
@@ -14,17 +22,38 @@
 
 ---
 
+## 🧠 Currently Learning
+
+- 🔧 Advanced Playwright & component testing
+- 🧬 AI-assisted QA tools
+- 🧭 Mobile app CI/CD with Expo + GitHub Actions
+
+---
+
 ## 📈 GitHub Stats
 ![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-holyshevskyi&show_icons=true&theme=ambient_gradient)
 
 ---
 
 ## 📌 Featured Projects
-- [![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend)](https://github.com/ClariSpend/clari-spend-backend)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog)](https://github.com/o-holyshevskyi/oh-blog)
+[![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend)](https://github.com/ClariSpend/clari-spend-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog)](https://github.com/o-holyshevskyi/oh-blog)
 
 ---
 
-## 📫 Get in Touch
-- 🔗 [LinkedIn](https://www.linkedin.com/in/oleksandr-holyshevskyi)
-- ✉️ [View my space](https://oholyshevskyi.com/)
+## 💬 Fun Facts
+
+- 🧒 I’m a dad of a curious 6-year-old 👦
+- 🌱 I speak 4 languages (Ukrainian, English, Russian, Czech)
+- ⏱ My favorite testing tool is... stopwatch and patience! 😄
+
+---
+
+## 💡 Want to Collaborate?
+
+I’m open to:
+- 🤝 QA mentorship
+- 🧪 Test architecture consulting
+- 🛠️ Contributing to open-source
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/oleksandr-holyshevskyi) or [my site](https://oholyshevskyi.com).
