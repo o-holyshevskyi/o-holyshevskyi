@@ -15,12 +15,13 @@
 ---
 
 ## 📈 GitHub Stats
-![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-holyshevskyi&show_icons=true&theme=tokyonight)
+![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-holyshevskyi&show_icons=true&theme=ambient_gradient)
 
 ---
 
 ## 📌 Featured Projects
 - [ClariSpend](https://github.com/ClariSpend) – Expense tracking mobile app (React Native + Expo)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog)](https://github.com/o-holyshevskyi/oh-blogs)
 - [Test Automation Suite](https://github.com/o-holyshevskyi/oh-blog) – Selenium + NUnit + FluentAssertions boilerplate
 
 ---
