@@ -31,13 +31,13 @@ Currently focused on building scalable testing solutions and React Native apps l
 ---
 
 ## 📈 GitHub Stats
-![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-holyshevskyi&show_icons=true&theme=ambient_gradient)
+![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-holyshevskyi&show_icons=true&theme=transparent )
 
 ---
 
 ## 📌 Featured Projects
-[![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend&theme=ambient_gradient)](https://github.com/ClariSpend/clari-spend-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog&theme=ambient_gradient)](https://github.com/o-holyshevskyi/oh-blog)
+[![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend&theme=transparent )](https://github.com/ClariSpend/clari-spend-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog&theme=transparent )](https://github.com/o-holyshevskyi/oh-blog)
 
 ---
 
