@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Oleksandr Holyshevskyi
 
-<!--
-**o-holyshevskyi/o-holyshevskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate QA Engineer | 📍 Based in Prague  
+💼 ISTQB® Certified | 🤖 Test Automation (C#, TS) | 📊 Performance QA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- 💻 Languages: C#, JavaScript/TypeScript
+- 🧪 QA: Playwright, Selenium, NUnit, FluentAssertions, NSubstitute
+- 🛠️ Tools: Azure DevOps, GitHub Actions, Postman
+- 🌐 Web: React, Next.js, REST APIs
+- 📱 Mobile: React Native (Expo)
+
+---
+
+## 📈 GitHub Stats
+![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-holyshevskyi&show_icons=true&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+- [ClariSpend]((https://github.com/ClariSpend)) – Expense tracking mobile app (React Native + Expo)
+- [Test Automation Suite](https://github.com/o-holyshevskyi/oh-blog) – Selenium + NUnit + FluentAssertions boilerplate
+
+---
+
+## 📫 Get in Touch
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oleksandr-holyshevskyi)
+- ✉️ [View my space](https://oholyshevskyi.com/)
