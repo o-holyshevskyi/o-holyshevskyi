@@ -36,14 +36,14 @@ Currently focused on building scalable testing solutions and React Native apps l
 ---
 
 ## 📌 Featured Projects
-[![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend&theme=transparent )](https://github.com/ClariSpend/clari-spend-backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog&theme=transparent )](https://github.com/o-holyshevskyi/oh-blog)
+[![ClariSpend](https://github-readme-stats.vercel.app/api/pin/?username=ClariSpend&repo=clari-spend-backend&theme=transparent)](https://github.com/ClariSpend/clari-spend-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=o-holyshevskyi&repo=oh-blog&theme=transparent)](https://github.com/o-holyshevskyi/oh-blog)
 
 ---
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-holyshevskyi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-holyshevskyi&layout=compact&theme=transparent)
 
 ---
 
